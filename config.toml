@@ -1,0 +1,73 @@
+baseurl = "https://example.org/"
+title = "Milan Dallongeville"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "True"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  imagetop = "/static/profile.webp"
+  description = "bienvenue sur mon portefolio"
+  copyright = "&copy;2023 VisualWard"
+  sidebarAbout = [
+    "Mon nom est Milan Dallongeville. Je suis photographe, vidéaste et télé pilote de drones amateur.",
+    "Actuellement à la recherche d'une entreprise pour réaliser mon BTS audiovisuel en Alternance."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "milandallongeville@gmail.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "A Propos"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Contactez moi"
+  url = "contact/"
+
+  [[params.navlinks]]
+  name = "Mon CV"
+  url = "CV.pdf"
+  
+  [params.social]
+  facebook      = "full page or profile url in facebook"
+  googleplus    = "full profile url in googleplus"
+  email         = "milandallongeville@gmail.com"
+  twitter       = "full profile url in twitter"
+  linkedin      = "full profile url in linkedin"
+  stackoverflow = "full profile url in stackoverflow"
+  instagram     = "full profile url in instagram"
+  github        = "full profile url in github"
+  gitlab        = "full profile url in gitlab"
+  youtube       = "full profile url in youtube"
+  whatsapp      = "wa.me service link"
