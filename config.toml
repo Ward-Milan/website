@@ -57,7 +57,7 @@ googleAnalytics = "True"
 
   [[params.navlinks]]
   name = "Mon CV"
-  url = "CV.pdf"
+  url = "portfolio/CV.pdf"
   
   [params.social]
   facebook      = "full page or profile url in facebook"
