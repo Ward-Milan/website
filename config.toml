@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://vwmilan.netlify.App/"
 title = "Milan Dallongeville"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
