@@ -6,4 +6,4 @@ date = "2016-11-05T18:25:22+05:30"
 title = "jaaj"
 weight = 0
 +++
-![jaaj1](https://vwmilan.netlify.app/img/portfolio/Annecy/bus.jpg)
+![jaaj1](img/portfolio/Annecy/bus.jpg)
