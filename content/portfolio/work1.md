@@ -6,7 +6,8 @@ date = "2016-11-05T18:25:22+05:30"
 title = "jaaj"
 weight = 0
 +++
-![](img/profile.webp)
+![jaaj1](img/profile.webp)
+[jaaj2](img/profile.webp)
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
 
