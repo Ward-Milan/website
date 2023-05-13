@@ -33,7 +33,7 @@ Compétences en post-production et informatique :
 
 Lightroom : 3/5
 
-DaVinci Resolve : 2/5
+DaVinci Resolve : 3/5
 
 Photoshop : 2/5
 
@@ -48,7 +48,7 @@ Compétences sur le terrain :
 ---
 ​
 
-Réglage de la caméra : 3/5
+Réglage de la caméra : 4/5
 
 Pilotage de drone stabilisé : 4/5
 
