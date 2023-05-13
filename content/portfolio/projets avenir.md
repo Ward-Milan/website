@@ -10,9 +10,9 @@ weight = 0
 Projets pour l'avenir à court terme
 ---
 
-- BTS audiovisuel option image. 
-- Diplôme CATT " Brevet d’Aptitude de Pilote à Distance".
-- Travaillé pendant un certain temps en entreprise ou en tant qu'indépendant à des postes de Cadreur et Télé pilote de Drone.
+- BTS audiovisuel option image. [color=#000000]
+- Diplôme CATT " Brevet d’Aptitude de Pilote à Distance".[color=#000000]
+- Travaillé pendant un certain temps en entreprise ou en tant qu'indépendant à des postes de Cadreur et Télé pilote de Drone.[color=#000000]
 
 ---
 Projets pour l'avenir à long terme
