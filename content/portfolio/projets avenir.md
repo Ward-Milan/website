@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/Annecy/bus.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Mes Projets"
+title = "PROJETS POUR L'AVENIR"
 weight = 0
 +++
 Projets pour l'avenir à court terme
